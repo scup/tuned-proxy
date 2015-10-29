@@ -20,5 +20,13 @@
   "bugs": {
     "url": "https://github.com/scup/tuned-proxy/issues"
   },
-  "homepage": "https://github.com/scup/tuned-proxy#readme"
+  "homepage": "https://github.com/scup/tuned-proxy#readme",
+  "dependencies": {
+    "babel": "5.8.29"
+  },
+  "devDependencies": {
+    "chai": "3.4.0",
+    "mocha": "2.3.3",
+    "sinon": "1.17.2"
+  }
 }

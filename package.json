@@ -1,0 +1,24 @@
+{
+  "name": "tuned-proxy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "tuned-proxy",
+  "scripts": {
+    "test": "NODE_ENV=test mocha --compilers js:babel/register --recursive ./tests/**/*.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/scup/tuned-proxy.git"
+  },
+  "keywords": [
+    "tunnel",
+    "proxy",
+    "analytics"
+  ],
+  "author": "SCUP",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/scup/tuned-proxy/issues"
+  },
+  "homepage": "https://github.com/scup/tuned-proxy#readme"
+}
